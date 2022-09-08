@@ -13,7 +13,7 @@ body {
 }
 section#about, section#blog {
     padding: 40px;
-    background-color: #000;
+    background-color: rgb(123, 159, 184);
     color: #fff;
 }
 .title {
@@ -37,7 +37,7 @@ section#portfolio {
     padding: 40px;
 }
 section#blog {
-    color: #000;
+    color: rgb(41, 17, 179);
 }
 .portfolio-image {
     width: 100%;
